@@ -20,11 +20,11 @@ public class PopUpSystem : MonoBehaviour
         switch (idMessage)
         {
             case 0:
-                message = "Je me souviens lorsque j'etais enfant... tout etait plus simple";
+                message = "Tiens ! Maman a laisser quelque chose sur la chaise";
                 break;
 
             case 1:
-                message = "Cette graine me rapelle lorsque je jardiner avec mes parents...";
+                message = "Cette graine me rapelle lorsque je jardinais avec mes parents...";
                 break;
 
             case 2:
@@ -45,16 +45,16 @@ public class PopUpSystem : MonoBehaviour
                 message = "";
                 break;
             case 7:
-                message = "Oh je crois que j'ai recu un message !";
+                message = "Oh je crois que j'ai recu un message ! Ou est mon telephone !?";
                 break;
             case 8:
-                message = "J'avais mon rendez-vous ! Il faut que je me prepare";
+                message = "Ah oui le rendez-vous ! Il faut que je me prepare";
                 break;
             case 9:
-                message = "Pourquoi n'ai-je jamais appris a ranger quand j'etais petit...";
+                message = "Pourquoi n'ai-je jamais appris a nettoyer quand j'etais petit...";
                 break;
             case 10:
-                message = "Ou est ce que maman rangais la cle, du placard a produit menage ?";
+                message = "Ou est ce que maman rangais la cle, du placard a produit menager ?";
                 break;
             case 11:
                 //En tant qu'enfant Nettoyer la salle de bain

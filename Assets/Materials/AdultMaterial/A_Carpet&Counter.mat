@@ -47,7 +47,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Ambiant_occlusion: 1
-    - _Color_Percentage: 10
+    - _Color_Percentage: 0.9411765
     - _Metalic: 0
     - _Normal_strength: 1
     - _QueueControl: 0

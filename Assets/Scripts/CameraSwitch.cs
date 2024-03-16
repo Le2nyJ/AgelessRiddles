@@ -20,7 +20,7 @@ public class CameraSwitch : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         audioManager.playSongs(0);
-        adultCam.cullingMask = adultCullingMask;
+        adultCam.cullingMask = childCullingMask;
         havingChololate = true;
     }
 
