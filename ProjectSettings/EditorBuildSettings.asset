@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8d595da12c71c2b4588bdb8dfb601a51
+  - enabled: 1
+    path: "Assets/Scenes/Cin\xE9matiqueD\xE9but.unity"
+    guid: c0ee924f3dafdcb4b864a919fa7ec982
+  - enabled: 1
+    path: Assets/Scenes/FinaleMerge.unity
+    guid: 0b93369a34eeed84f961e72b7931574e
+  - enabled: 1
+    path: "Assets/Scenes/Cin\xE9matiqueFin.unity"
+    guid: 573ab59bd6ae8c64db7909589214ebb4
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9dits.unity"
+    guid: 2e02c423d277964468e52575825195e5
   m_configObjects: {}
